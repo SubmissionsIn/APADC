@@ -11,4 +11,4 @@
     scipy==1.6.2
     pytorch==1.9.0
  
- This work was motivated by the previous fantastic work COMPLETER: Incomplete multi-view clustering via contrastive prediction.
+# This work was motivated by the previous fantastic work COMPLETER: Incomplete multi-view clustering via contrastive prediction.
