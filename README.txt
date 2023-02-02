@@ -10,3 +10,5 @@
     scikit-learn==0.22.2.post1
     scipy==1.6.2
     pytorch==1.9.0
+ 
+ This work was motivated by the previous fantastic work COMPLETER: Incomplete multi-view clustering via contrastive prediction.
