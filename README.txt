@@ -1,3 +1,5 @@
+Accepted by IEEE TIP
+
 # The data sets with different missing rates are generated randomly
     for missingrate in [0.1, 0.3, 0.5, 0.7]:
 
