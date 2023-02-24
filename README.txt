@@ -7,6 +7,9 @@ Accepted by IEEE TIP
   author={Xu, Jie and Li, Chao and Peng, Liang and Ren, Yazhou and Shi, Xiaoshuang and Shen, Heng Tao and Zhu, Xiaofeng},
   journal={IEEE Trans. Image Process.},
   year={2023},
+  volume={32},
+  number={},
+  pages={1354-1366},
   note={doi:\href{http://dx.doi.org/10.1109/TIP.2023.3243521}{10.1109/TIP.2023.3243521}}
 }
 
