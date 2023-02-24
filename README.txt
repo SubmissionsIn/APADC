@@ -3,7 +3,7 @@ Accepted by IEEE TIP
 # Citation
 
 @article{Xu_2023_TIP,
-  title={Adaptive Feature Projection with Distribution Alignment for Deep Incomplete Multi-view Clustering},
+  title={Adaptive Feature Projection with Distribution Alignment for Deep Incomplete Multi-View Clustering},
   author={Xu, Jie and Li, Chao and Peng, Liang and Ren, Yazhou and Shi, Xiaoshuang and Shen, Heng Tao and Zhu, Xiaofeng},
   journal={IEEE Trans. Image Process.},
   year={2023},
