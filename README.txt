@@ -1,4 +1,4 @@
-Accepted by IEEE TIP
+Accepted by IEEE TIP.
 
 # Citation
 
